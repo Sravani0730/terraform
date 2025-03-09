@@ -1,3 +1,3 @@
-ami_id ="ami-0c50b6f7dc3701ddd"
+ami_id ="ami-05c179eced2eb9b5b"
 type ="t2.micro"
-key ="mycloudpractice"
+key ="mykeypair"
